@@ -1,0 +1,1 @@
+* `git merge --no-ff <ref>`: force a merge commit
